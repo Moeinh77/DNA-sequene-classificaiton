@@ -1,2 +1,2 @@
 # DNA-sequene-classificaiton-python
-My projects related to DNA sequence classification using Keras and Sklearn
+This project will investigate the effectiveness of different Neural Networks in the classification of DNA sequences. The purpose is to identify sequences that include Splice Junction sites and classify the sites into 'Exon/Intron' and 'Intron/Exon' or 'Neighter' classes. The are Neural networks used in this work, and the data has been processed using the K-mer method with K values of 3, 5, and 7. The final results show that smaller K and Artificial Neural Network and Convectional Neural network can produce better results than other combinations. An accuracy of 97% is achieved in this task.
